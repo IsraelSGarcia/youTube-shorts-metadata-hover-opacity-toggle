@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Shorts Metadata Hover & Toggle Opacity
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      1.0
 // @description  This Tampermonkey script enhances the user experience on YouTube Shorts by enabling hover effects and providing a keyboard shortcut to toggle metadata visibility. When the user hovers over the metadata panels (such as video information or like/dislike stats), the video brightness is dimmed. Additionally, pressing the 'H' key allows users to toggle the opacity of the metadata, making it easier to focus on the video. The script also works seamlessly with YouTube's infinite scroll feature and handles SPA (Single Page Application) navigation for dynamic content updates.
 // @match        https://www.youtube.com/*
 // @grant        none
