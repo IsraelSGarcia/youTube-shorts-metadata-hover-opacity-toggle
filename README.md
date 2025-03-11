@@ -51,4 +51,4 @@ Once the script is enabled, it will run automatically when you visit YouTube Sho
 
 ## License
 
-This script is open-source and available under the [MIT License](LICENSE).
+This script is open-source and available under the [GNU General Public License v3.0](LICENSE).
